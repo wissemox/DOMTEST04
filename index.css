@@ -1,0 +1,118 @@
+.product0{
+    display: flex;
+    margin-left: 150px;
+}
+
+#wissem{ 
+    width: 150px;
+}
+.omg { 
+    width: 50px;
+   fill: red;
+}
+.omg02{ 
+    width: 250px;
+  
+    
+} 
+.immg{ 
+    fill: red;
+}
+.product010{
+    display: flex;
+    background-color: royalblue;
+    color: white;
+    margin-left: 120px;
+}
+.product010 p{ 
+    margin-left: 80px;
+}
+.omg02{ 
+    width: 120px;
+}
+.product0 button p{ 
+  padding-bottom: 20px;
+  
+}
+.product0 button{ 
+  width: 20px;
+  border: none;
+  height: 20px;
+  border-radius: 20px;
+  color: white;
+  background-color: blue;
+  margin-top: 60px;
+  
+
+}
+.omg{ 
+    filter: grayscale(100%);
+}
+
+.moh { 
+    font-size: 20px;
+    margin-top: 50px;
+}
+#morg {
+    margin-top: 60px;
+    margin-left: 50px;
+  
+}
+#morgd { 
+    margin-top: 60px;
+    margin-left: 50px;
+} 
+.wiss { 
+  height: 50px;
+  margin-top: 50px;
+}
+.morgd{
+    margin-left: 50px;
+}
+#totaal{
+   margin-left: 150px;
+}
+#wisse{
+    margin-left: 150px;
+}
+.oo{
+    margin-left: 50px;
+}
+.morg {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.morgd { 
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.product0 button { 
+    margin-left: 60px;
+}
+.moh { 
+    margin-left: 50px;
+}
+.totald { 
+    background-color: rgb(68, 68, 245);
+    width: 150px;
+    margin-left: 140px;
+
+}
+.totald p { 
+    font-size: 18px;
+    color: white;
+}
+#wisse{
+    margin-left: 60px;
+}
+#price { 
+ margin-left: 170px;
+ font-size: 20px;
+}
+#qunti { 
+    margin-left: 140px;
+}
+.product010 {
+    font-size: 20px;
+}
